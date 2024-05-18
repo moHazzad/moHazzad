@@ -19,13 +19,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React,  Nodejs, MongoDB**
+- 🔭 I’m currently working at **Abulaban Est. and building a E-commerce website for them**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react,  nodejs, mongoDB**
+- 💬 Ask me about **AWS, TypeScript, react, Nextjs, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **hazzadmdap@gmail.com**
 
